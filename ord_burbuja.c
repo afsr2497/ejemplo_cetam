@@ -14,6 +14,7 @@ int main(){
         ord_vector[i] = 100 + rand()%(101);
         printf("\n");
         printf("%d",ord_vector[i]);
+        printf('Hola');
     }
     
     for(i = 0; i < SIZE; i++){
