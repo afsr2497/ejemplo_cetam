@@ -15,6 +15,7 @@ int main(){
         printf("\n");
         printf("%d",ord_vector[i]);
         printf('Hola');
+        print('hola');
     }
     
     for(i = 0; i < SIZE; i++){
